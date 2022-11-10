@@ -1,6 +1,6 @@
 ## Projetinho de React - Listinha de Séries
 
-## Obejetivo 
+## Objetivo 
 * Colocar os conceitos aprendidos na semana 13 de React no Reprograma. Conceitos esse que envolve a criação de componentes e o uso das props durante a atividade 
 
 ## Dificuldades 
